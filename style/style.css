@@ -147,3 +147,6 @@ svg:hover{
 	color: #CA8495;
 	text-transform: uppercase;
 }
+.slick img{
+	width: 100%;
+}
